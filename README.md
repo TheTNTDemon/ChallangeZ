@@ -8,30 +8,30 @@
  - :white_check_mark: = Done and reviewed and then will be crossed out of the list
 
  Here is a list of all the exercises that are done and reviewed:
- - [ ] 1. Reading, Sorting and Reversing ASCII
- - [ ] 2. Find (dutch regulatied) zipcode in string with regex
- - [ ] 3. Check for valid email with regex
- - [ ] 4. Bubblesort algortithm
- - [ ] 5. Check for valid dutch phone number with regex
- - [ ] 6. Insert 2d array in a table in HTML
- - [ ] 7. Visualize Fibonacci sequence with p5
- - [ ] 8. Calculate and show the prime numbers below 100
- - [ ] 9. Switch 2 (number) variables without a 3rd one
- - [ ] 10. Self playing Towers of Hanoi
- - [ ] 11. Palindrome detection
- - [ ] 12. Recursive sorting
- - [ ] 13. Calculate surface and circumference of a circle
- - [ ] 14. Calculate temperature (F, C, K, etc)
- - [ ] 15. Sort list
- - [ ] 16. String numbers math
- - [ ] 17. Roulette game
- - [ ] 18. Name generator
- - [ ] 19. Check if string contains SQL
- - [ ] 20. Switch 2 (string) variables without a 3rd one
- - [ ] 21. Wall generator with 50x10cm bricks
- - [ ] 22. Follow the light game
- - [ ] 23. Mondriaan looking like site
- - [ ] 24. Letter generator
+ - [ ] 1. Reading, Sorting and Reversing ASCII :hourglass_flowing_sand: 
+ - [ ] 2. Find (dutch regulatied) zipcode in string with regex :hourglass_flowing_sand: 
+ - [ ] 3. Check for valid email with regex :x:
+ - [ ] 4. Bubblesort algortithm :x:
+ - [ ] 5. Check for valid dutch phone number with regex :x:
+ - [ ] 6. Insert 2d array in a table in HTML :x:
+ - [ ] 7. Visualize Fibonacci sequence with p5 :x:
+ - [ ] 8. Calculate and show the prime numbers below 100 :x:
+ - [ ] 9. Switch 2 (number) variables without a 3rd one :hourglass_flowing_sand: :x:
+ - [ ] 10. Self playing Towers of Hanoi :x:
+ - [ ] 11. Palindrome detection :x:
+ - [ ] 12. Recursive sorting :x:
+ - [ ] 13. Calculate surface and circumference of a circle :x:
+ - [ ] 14. Calculate temperature (F, C, K, etc) :x:
+ - [ ] 15. Sort list :x:
+ - [ ] 16. String numbers math :x:
+ - [ ] 17. Roulette game :x:
+ - [ ] 18. Name generator :x:
+ - [ ] 19. Check if string contains SQL :x:
+ - [ ] 20. Switch 2 (string) variables without a 3rd one :hourglass_flowing_sand: 
+ - [ ] 21. Wall generator with 50x10cm bricks :x:
+ - [ ] 22. Follow the light game :x:
+ - [ ] 23. Mondriaan looking like site :x:
+ - [ ] 24. Letter generator :x:
 
  Personal tasks for this github:
  - [ ] Add JSFiddles to the ones that can (or make all proper html/css/js projects)
