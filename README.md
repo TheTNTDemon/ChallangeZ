@@ -3,9 +3,9 @@
 
 # Checklist
  The emojis work like this:
- :x: = Unfinished project
- :hourglass_flowing_sand: = Waiting for review
- :white_check_mark: = Done and reviewed and then will be crossed out of the list
+ - :x: = Unfinished project
+ - :hourglass_flowing_sand: = Waiting for review
+ - :white_check_mark: = Done and reviewed and then will be crossed out of the list
 
  Here is a list of all the exercises that are done and reviewed:
  - [ ] 1. Reading, Sorting and Reversing ASCII
