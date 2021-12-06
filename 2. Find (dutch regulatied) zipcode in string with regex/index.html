@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 2 Zipcode</title>
+</head>
+
+<body>
+    <p id="demo"></p>
+    <script>
+        var userInfo = "Straatmaan, I don't know landnaam? 6664 FT of 6664FT, en i loveeeeee 0420 FT (valse om het te testen)";
+        var userInfo2 = "Rijksweg 44, 6533 XT Amsterdam"; // Trello string voorbeeld
+
+        logMatchedZipcodes(userInfo);
+        logMatchedZipcodes(userInfo2);
+
+        function logMatchedZipcodes(string) {
+            var zipcodes = "";
+            var matchedZipcodes = string.match(/([1-9][0-9][0-9][0-9][A-Z]{2})|([1-9][0-9][0-9][0-9]\s[A-Z]{2})/g);
+            for (let i = 0; i < matchedZipcodes.length; i++) {
+                if (i >= matchedZipcodes.length - 1) {
+                    zipcodes += matchedZipcodes[i] + ".";
+                } else {
+                    zipcodes += matchedZipcodes[i] + ", ";
+                }
+            }
+            document.getElementById("demo").innerHTML += "'" + string + "' has these matching zipcodes:<br>" + zipcodes + "<br><br>";
+        }
+    </script>
+</body>
+
+</html>

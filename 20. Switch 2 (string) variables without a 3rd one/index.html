@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 20 StringSwap</title>
+</head>
+
+<body>
+    <p id="demo"></p>
+
+    <script>
+        // solution for most other languages (adaptable for java/C# etc)
+
+        var a = "First";
+        var b = "Second";
+        document.getElementById("demo").innerHTML += "Adaptable one" + "<br>";
+        document.getElementById("demo").innerHTML += "Before swap: " + a + " " + b + "<br>";
+        // we make a "LoveYou"
+        a = a + b;
+        // here we select only the first word by setting substring from 0 to however long a was before math (so thereby remove b)
+        b = a.substring(0, a.length - b.length);
+        // here we make a the second variable by starting it at the index defined by b length (so start 1 number higher due to first variable length in b now) and then they are swapped
+        a = a.substring(b.length);
+        document.getElementById("demo").innerHTML += "After : " + a + " " + b + "<br><br>";
+
+        // ES6 Js specific solution
+
+        var a = "First";
+        var b = "Second";
+        document.getElementById("demo").innerHTML += "ES6 JS Specific" + "<br>";
+        document.getElementById("demo").innerHTML += "Before swap: " + a + " " + b + "<br>";
+        [a, b] = [b, a];
+        document.getElementById("demo").innerHTML += "After : " + a + " " + b + "<br>";
+    </script>
+</body>
+
+</html>

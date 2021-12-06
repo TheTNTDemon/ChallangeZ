@@ -13,7 +13,7 @@
  - [ ] 3. Check for valid email with regex :x:
  - [ ] 4. Bubblesort algortithm :x:
  - [ ] 5. Check for valid dutch phone number with regex :x:
- - [ ] 6. Insert 2d array in a table in HTML :x:
+ - [ ] 6. Insert 2d array in a table in HTML :hourglass_flowing_sand:
  - [ ] 7. Visualize Fibonacci sequence with p5 :x:
  - [ ] 8. Calculate and show the prime numbers below 100 :x:
  - [ ] 9. Switch 2 (number) variables without a 3rd one :hourglass_flowing_sand:
