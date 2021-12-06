@@ -37,4 +37,5 @@
  - [ ] Add JSFiddles to the ones that can (or make all proper html/css/js projects)
  - [ ] Add more to readme if needed
  - [ ] Finish this in less than 2 weeks (as personal challenge and so i can work on some personal projects)
- - [ ] Ask about project **15** 
+ - [ ] Ask about project **15**
+ - [ ] Add documention to all projects? (if comments arent good enough?)
