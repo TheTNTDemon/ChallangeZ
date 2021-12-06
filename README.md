@@ -16,7 +16,7 @@
  - [ ] 6. Insert 2d array in a table in HTML :x:
  - [ ] 7. Visualize Fibonacci sequence with p5 :x:
  - [ ] 8. Calculate and show the prime numbers below 100 :x:
- - [ ] 9. Switch 2 (number) variables without a 3rd one :hourglass_flowing_sand: :x:
+ - [ ] 9. Switch 2 (number) variables without a 3rd one :hourglass_flowing_sand:
  - [ ] 10. Self playing Towers of Hanoi :x:
  - [ ] 11. Palindrome detection :x:
  - [ ] 12. Recursive sorting :x:
